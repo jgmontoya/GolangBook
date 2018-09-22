@@ -1,7 +1,7 @@
 # Useful Go commands
 
 ## Compile and run
-`$ go run program.go`
+`$ go run <program.go>`
 
 ## Compile and save binary
-`$ go build program.go`
+`$ go build <program.go>`
